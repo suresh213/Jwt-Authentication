@@ -1,0 +1,4 @@
+{
+  "MongoURI": "mongodb+srv://suresh:suresh@jwttask.tils2.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "JDEIcksdaiSWI"
+}
